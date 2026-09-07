@@ -34,14 +34,6 @@ Esta propuesta adapta el currículo oficial de 2010 a un enfoque profesional y a
 ## Unidades didácticas
 
 1. [UD01. Arquitectura web y entorno profesional](u01/index.md)
-2. [UD02. Fundamentos de programación en servidor](u02/index.md)
-3. [UD03. Generación dinámica y plantillas](u03/index.md)
-4. [UD04. Formularios, estado y sesiones](u04/index.md)
-5. [UD05. Arquitectura MVC y separación de lógica](u05/index.md)
-6. [UD06. Acceso a bases de datos y CRUD](u06/index.md)
-7. [UD07. Servicios Web y APIs REST](u07/index.md)
-8. [UD08. Integración con cliente y aplicaciones híbridas](u08/index.md)
-9. [UD09. Proyecto final y despliegue](u09/index.md)
 
 ## Relación con los resultados de aprendizaje
 

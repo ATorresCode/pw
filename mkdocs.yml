@@ -29,6 +29,7 @@ theme:
 nav:
     - Home: index.md
     - UF01. Arquitecturas web: u01/index.md
+    - UF02. JavaScript: u02/index.md
 extra_css:
   - css/style.css
 extra_templates:
